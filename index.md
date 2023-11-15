@@ -121,8 +121,8 @@
         <img src="Images/ban1 (3).jpg" alt="Banner 3" class="banner">
     </div>
     <div class="additional-navbar">
-        <button>Email: OussamaChatGPT@google.com</button>
-        <button>Instagram: Oussema_tt</button>
+        <button>Email: ChatGPT@google.com</button>
+        <button>Instagram: tt_tt_tt</button>
     </div>
     <div class="scroll-to-top" id="scrollToTop">
         UP
