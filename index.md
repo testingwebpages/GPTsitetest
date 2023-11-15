@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>One Page Website</title>
@@ -191,5 +191,3 @@
     </script>
 </body>
 </html>
-
-this is my code , how to improve it and make it better
