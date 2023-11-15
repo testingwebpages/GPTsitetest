@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <title>One Page Website</title>
